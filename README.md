@@ -1,7 +1,6 @@
 # ZT-Policy-Profile
 Zero Trust Architecture Lab Assignment
 
-# Zero Trust Architecture Lab
 **Course:** IT-335  
 **Name:** Hammad Alajmi 
 **Date:** February 26, 2026
