@@ -22,4 +22,4 @@
 
 Filename: ZT-Policy-Profile.md
 
-Commit Message: 
+Commit Message: Add ZT-Policy-Profile.md for Zero Trust lab - https://github.com/Hammad1012/ZT-Policy-Profile.git
